@@ -15,7 +15,7 @@
 ![HTML](https://img.shields.io/badge/HTML-5-orange?style=flat&logo=html5)
 ![Java](https://img.shields.io/badge/Java-17-red?style=flat&logo=java)
 ![XML](https://img.shields.io/badge/XML-1.0-green?style=flat&logo=xml)
-![CSS](https://img.shields.io/badge/CSS-3-blueviolet?style=flat&logo=css3)
+![CSS](https://img.shields.io/badge/CSS-3-blue?style=flat&logo=css3)
 
 ## Contenido del Repositorio
 
