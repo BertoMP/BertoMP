@@ -10,12 +10,13 @@
 
 ## Tecnologías
 
-![PHP](https://img.shields.io/badge/PHP-8.x-blue?style=flat&logo=php)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=flat&logo=javascript)
 ![HTML](https://img.shields.io/badge/HTML-5-orange?style=flat&logo=html5)
-![Java](https://img.shields.io/badge/Java-17-red?style=flat&logo=java)
-![XML](https://img.shields.io/badge/XML-1.0-green?style=flat&logo=xml)
 ![CSS](https://img.shields.io/badge/CSS-3-blue?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=flat&logo=javascript)
+![XML](https://img.shields.io/badge/XML-1.0-green?style=flat&logo=xml)
+![PHP](https://img.shields.io/badge/PHP-8.x-blue?style=flat&logo=php)
+![Java](https://img.shields.io/badge/Java-17-red?style=flat&logo=java)
+
 
 ## Contenido del Repositorio
 
